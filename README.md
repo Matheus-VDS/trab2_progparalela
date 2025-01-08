@@ -1,1 +1,1 @@
-Cálculo de distância de edição de forma paralela.
+Cálculo de distância de edição de duas sequências de forma paralela.
